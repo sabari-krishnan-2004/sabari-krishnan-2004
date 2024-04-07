@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabari-krishnan-2004
-- 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning game development
+- 👀 I’m a full stack web developer with intrest in machine learning
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me psabarikrishnan@gmail.com
 
 <!---
